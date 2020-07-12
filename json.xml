@@ -1,0 +1,23 @@
+{"path":"D:\\Learn\\Git\\fileStorage","ctime":"2020-07-12 23:39:45.002374","version":"0.7.11.23","mtime":"2020-07-12
+22:21:28","ino":"6192449487670809","dev":"1153412245","files":"3","dirs":"2","sub_dirs":[{"name":".git","mtime":"2020-07-12
+21:58:08","files":"6","dirs":"5","sub_dirs":[{"name":"hooks","mtime":"2020-07-12
+21:54:37","files":"11","dirs":"0"},{"name":"info","mtime":"2020-07-12
+21:54:37","files":"1","dirs":"0"},{"name":"logs","mtime":"2020-07-12
+21:54:41","files":"1","dirs":"1","sub_dirs":[{"name":"refs","mtime":"2020-07-12
+21:54:41","files":"0","dirs":"2","sub_dirs":[{"name":"heads","mtime":"2020-07-12
+21:54:41","files":"1","dirs":"0"},{"name":"remotes","mtime":"2020-07-12
+21:54:41","files":"0","dirs":"1","sub_dirs":[{"name":"origin","mtime":"2020-07-12
+21:54:41","files":"1","dirs":"0"}]}]}]},{"name":"objects","mtime":"2020-07-12
+21:54:41","files":"0","dirs":"7","sub_dirs":[{"name":"4a","mtime":"2020-07-12
+21:54:41","files":"1","dirs":"0"},{"name":"95","mtime":"2020-07-12
+21:54:41","files":"1","dirs":"0"},{"name":"9f","mtime":"2020-07-12
+21:54:41","files":"1","dirs":"0"},{"name":"b3","mtime":"2020-07-12
+21:54:41","files":"1","dirs":"0"},{"name":"b6","mtime":"2020-07-12
+21:54:41","files":"1","dirs":"0"},{"name":"info","mtime":"2020-07-12
+21:54:37","files":"0","dirs":"0"},{"name":"pack","mtime":"2020-07-12
+21:54:37","files":"0","dirs":"0"}]},{"name":"refs","mtime":"2020-07-12
+21:54:41","files":"0","dirs":"3","sub_dirs":[{"name":"heads","mtime":"2020-07-12
+21:54:41","files":"1","dirs":"0"},{"name":"remotes","mtime":"2020-07-12
+21:54:41","files":"0","dirs":"1","sub_dirs":[{"name":"origin","mtime":"2020-07-12
+21:54:41","files":"1","dirs":"0"}]},{"name":"tags","mtime":"2020-07-12
+21:54:37","files":"0","dirs":"0"}]}]},{"name":"proj","mtime":"2020-07-12 22:21:53","files":"3","dirs":"0"}]}

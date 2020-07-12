@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<root ctime="2020-07-12 23:42:29.731854" dev="1153412245" dirs="2" files="5" ino="6192449487670809"
+    mtime="2020-07-12 23:39:45" path="D:\Learn\Git\fileStorage" version="0.7.11.23">
+    <subdir dirs="5" files="6" mtime="2020-07-12 21:58:08" name=".git">
+        <subdir dirs="0" files="11" mtime="2020-07-12 21:54:37" name="hooks" />
+        <subdir dirs="0" files="1" mtime="2020-07-12 21:54:37" name="info" />
+        <subdir dirs="1" files="1" mtime="2020-07-12 21:54:41" name="logs">
+            <subdir dirs="2" files="0" mtime="2020-07-12 21:54:41" name="refs">
+                <subdir dirs="0" files="1" mtime="2020-07-12 21:54:41" name="heads" />
+                <subdir dirs="1" files="0" mtime="2020-07-12 21:54:41" name="remotes">
+                    <subdir dirs="0" files="1" mtime="2020-07-12 21:54:41" name="origin" />
+                </subdir>
+            </subdir>
+        </subdir>
+        <subdir dirs="7" files="0" mtime="2020-07-12 21:54:41" name="objects">
+            <subdir dirs="0" files="1" mtime="2020-07-12 21:54:41" name="4a" />
+            <subdir dirs="0" files="1" mtime="2020-07-12 21:54:41" name="95" />
+            <subdir dirs="0" files="1" mtime="2020-07-12 21:54:41" name="9f" />
+            <subdir dirs="0" files="1" mtime="2020-07-12 21:54:41" name="b3" />
+            <subdir dirs="0" files="1" mtime="2020-07-12 21:54:41" name="b6" />
+            <subdir dirs="0" files="0" mtime="2020-07-12 21:54:37" name="info" />
+            <subdir dirs="0" files="0" mtime="2020-07-12 21:54:37" name="pack" />
+        </subdir>
+        <subdir dirs="3" files="0" mtime="2020-07-12 21:54:41" name="refs">
+            <subdir dirs="0" files="1" mtime="2020-07-12 21:54:41" name="heads" />
+            <subdir dirs="1" files="0" mtime="2020-07-12 21:54:41" name="remotes">
+                <subdir dirs="0" files="1" mtime="2020-07-12 21:54:41" name="origin" />
+            </subdir>
+            <subdir dirs="0" files="0" mtime="2020-07-12 21:54:37" name="tags" />
+        </subdir>
+    </subdir>
+    <subdir dirs="0" files="3" mtime="2020-07-12 22:21:53" name="proj" />
+</root>
